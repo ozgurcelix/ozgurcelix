@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" width="400" src="https://github.com/ozgurcelix/ozgurcelix/blob/main/oz-github.jpg">
+<img align="center" alt="Coding" width="400" src="https://github.com/ozgurcelix/ozgurcelix/blob/main/oz-github.jpg">
 
 Frontend Developer
 ------------------
